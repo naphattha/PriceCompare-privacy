@@ -31,7 +31,7 @@ This site is hosted using GitHub Pages. Any changes pushed to the `main` branch 
 
 ## 📧 Contact
 
-For questions or concerns about privacy, please contact: your-email@example.com
+For questions or concerns about privacy, please contact: nautolab.dev@gmail.com
 
 ## 📝 License
 
