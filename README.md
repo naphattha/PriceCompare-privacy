@@ -4,8 +4,8 @@ Privacy Policy website for Price Compare mobile app.
 
 ## 🔗 Links
 
-- **Privacy Policy:** https://naphattha.github.io/pricecompare-privacy/
-- **Delete Account:** https://naphattha.github.io/pricecompare-privacy/delete-account.html
+- **Privacy Policy:** [https://naphattha.github.io/pricecompare-privacy/](https://naphattha.github.io/PriceCompare-privacy/)
+- **Delete Account:** [https://naphattha.github.io/pricecompare-privacy/delete-account.html](https://naphattha.github.io/PriceCompare-privacy/delete-account.html)
 
 ## 📱 About Price Compare
 
